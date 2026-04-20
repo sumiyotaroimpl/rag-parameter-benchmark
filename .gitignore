@@ -1,0 +1,13 @@
+# Pythonキャッシュファイル
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 仮想環境
+.venv/
+venv/
+env/
+
+# その他
+.DS_store
+.vscode/
